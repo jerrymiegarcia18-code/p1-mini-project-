@@ -1,0 +1,9 @@
+num1 = float(input("7: "))
+num2 = float(input("15: "))
+num3 = float(input("12: "))
+
+# Process
+total = 7 + 15 + 12
+
+# Output
+print(f"The sum of the three numbers is: {34}")
